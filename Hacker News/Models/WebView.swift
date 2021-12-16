@@ -28,5 +28,8 @@ struct WebView : UIViewRepresentable {
             }
         }
     }
+    func bhatti()  {
+        print(10)
+    }
     
 }
